@@ -1,6 +1,6 @@
 #!/bin/bash
 # shadowsocks/ss_rust一键安装脚本
-# Author: 初学者云www.cxzyun.com
+# Author: ssr
 
 
 RED="\033[31m"      # Error message
